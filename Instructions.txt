@@ -1,0 +1,16 @@
+
+-> This Application is Used for all those learners who are looking for very good resource’s to kickstart or  update or revise their technical knowledge.
+
+-> The Resources which are provided in this application are collected through a comprehensive survey from large number of student community.
+
+-> Steps for using/accessing the application
+   	Step-1.Download the E-Learn Folder.
+	Step-2. Open the E-Learn Folder.
+	Step-3.select and Open the dist Folder.
+	Step-4.Select and Open the main Folder.
+	Step-5.A Huge Number of files is displayed after open the main folder. 
+	Step-6.Find/Select  the E-Learn.exe file and open/run the application.
+                             (or)
+               Find/Select the E-Learn Application file and open/run the application. 
+
+
